@@ -84,7 +84,7 @@ def sanitize_csv(input_csv, output_csv):
     print(f"Sanitized CSV saved to {output_csv}")
 
 # Example usage
-input_csv_path = "C:\\Users\\Ege S\\Downloads\\test_input.csv"  # Replace with your input CSV file path
+input_csv_path = "test_input.csv"  # Replace with your input CSV file path
 output_csv_path = "output_sanitized.csv"  # Replace with your desired output file path
 
 sanitize_csv(input_csv_path, output_csv_path)
