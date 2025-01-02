@@ -34,5 +34,5 @@
       Archive and clear security logs.
       #Script will require administrator privileges for some features.
 
-3) Timer Game
+3) Timer Game:
     A fun game for 2(or 2 teams) where a random topic is generated. Players will enter their names and choose the game time(Total game time / 2 is the player time). Each player will hit enter after saying a related word/words and the timer will automatically change to the other player's time this will continue till one player runs out of time. After that the topic changes.
